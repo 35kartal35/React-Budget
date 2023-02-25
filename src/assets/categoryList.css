@@ -1,0 +1,31 @@
+.categoryContainer{
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(100, 198, 237);
+
+}
+
+.categoryitem{
+    font-size: x-large;
+    
+    cursor: pointer;
+    
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.categoryitem:hover{
+    background-color: aliceblue;
+}
+
+.categoryitem:active{
+    background-color: rgb(65, 70, 75);
+}

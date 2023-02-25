@@ -1,0 +1,10 @@
+1-) Dipendency
+a-) Json-server kullanılacak
+b-) axios kullanılacak
+c-) style custom yazılacak
+
+SENARYO
+1-Kategorilerin ve ürünlerin olduğu bir program olacak
+2-ürünler ve kategoriler eklenip çıkartabilinecek
+3- ürünler ve kategoriler listelenecek
+4-bir header bir footer ve arasına ürün ve kategoriler listelenecek.

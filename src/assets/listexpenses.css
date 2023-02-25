@@ -1,0 +1,11 @@
+.listExpenses{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    column-gap: 50px;
+    background-color: rgb(100, 198, 237);
+    border-radius: 10px;
+}

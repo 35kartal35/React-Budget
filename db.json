@@ -1,0 +1,44 @@
+{
+    "expenses":[{
+        "id":"1",
+        "price":"250",
+        "place":"A101",
+        "date":"25.02.2023",
+        "title":"Ramazan Yufkası Harcaması",
+        "description":"Un 10 tl olmuş"
+
+    },
+    {
+        "id":"2",
+        "price":"500",
+        "place":"BİM",
+        "date":"25.02.2023",
+        "title":"Okul Harcaması",
+        "description":"Meyve Suyu Aldık"
+
+    },
+    {
+        "id":"3",
+        "price":"300",
+        "place":"PEYSAŞ",
+        "date":"25.02.2023",
+        "title":"Süt Yoğurt Peynir",
+        "description":"Kars Gravyeri Harika"
+
+    } 
+],
+"categories":[{
+    "id":"1",
+    "Name":"Bakliyat"
+},
+{
+    "id":"3",
+    "Name":"Süt Ürünleri"
+},
+{
+    "id":"2",
+    "Name":"Market"
+}
+
+]
+}
