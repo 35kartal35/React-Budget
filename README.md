@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Project React-Budget; Javascript & React & redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
