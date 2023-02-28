@@ -9,7 +9,9 @@ const CategoryList = ({ categories=[] }) => {
                 categories.map(category => (
                     <h1 className="categoryitem">
                         {category.Name}
+                        <button>Malzeme Ekle</button>
                     </h1>
+                    
                 ))
             }
         </div>
