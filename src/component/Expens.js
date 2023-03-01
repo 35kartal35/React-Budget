@@ -7,7 +7,7 @@ const Expens=({expenses=[]})=>{
               {expenses.map(expens=>(  
                 <table class="table">
         <thead>
-          <tr>
+          <tr >
             <th scope="col">No</th>
             <th scope="col">Malzeme Adı</th>
             <th scope="col">Ücreti</th>
@@ -15,7 +15,7 @@ const Expens=({expenses=[]})=>{
           </tr>
         </thead>
         <tbody>
-          <tr>
+          <tr key={expens.id}>
             <th scope="row">1</th>
             <td>{expens.title}</td>
             <td>{expens.place}</td>
